@@ -1,0 +1,10 @@
+{
+  "name": "dashboard-pribadi",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "^11.1.9",
+    "web-push": "^3.6.7"
+  }
+}
